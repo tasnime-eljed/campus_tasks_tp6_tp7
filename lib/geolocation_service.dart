@@ -1,4 +1,4 @@
-import 'package:geolocator/geolocator.dart';
+/*import 'package:geolocator/geolocator.dart';
 
 class GeolocationService {
   Future<Position?> getCurrentPosition() async {
@@ -25,4 +25,4 @@ class GeolocationService {
       return null;
     }
   }
-}
+}*/
